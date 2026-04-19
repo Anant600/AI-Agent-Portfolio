@@ -25,3 +25,24 @@ while True:
     chat_history.append({'role': 'assistant', 'content': coach_reply})
 
     print(f"\nCoach: {coach_reply}")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
